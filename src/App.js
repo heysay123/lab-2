@@ -75,7 +75,7 @@ function App() {
               <div className="row">
           <div className="col-md-3">
             <div className="card">
-              <img src="Images\Menu1.jpg" className="card-img-top" alt="Margherita Pizza" />
+              <img src="Images/Menu1.jpg" className="card-img-top" alt="Margherita Pizza" />
               <div className="card-body">
                 <h5 className="card-title">Margherita Pizza</h5>
                 <p className="card-text">$24.00</p>
@@ -85,7 +85,7 @@ function App() {
           </div>
           <div className="col-md-3">
             <div className="card">
-              <img src="Images\Menu2.jpg" className="card-img-top" alt="Mushroom Pizza" />
+              <img src="Images/Menu2.jpg" className="card-img-top" alt="Mushroom Pizza" />
               <div className="card-body">
                 <h5 className="card-title">Mushroom Pizza</h5>
                 <p className="card-text">$25.00</p>
@@ -95,7 +95,7 @@ function App() {
           </div>
           <div className="col-md-3">
             <div className="card">
-              <img src="Images\Menu3.jpg" className="card-img-top" alt="Hawaiian Pizza" />
+              <img src="Images/Menu3.jpg" className="card-img-top" alt="Hawaiian Pizza" />
               <div className="card-body">
                 <h5 className="card-title">Hawaiian Pizza</h5>
                 <p className="card-text">$26.00</p>
@@ -105,7 +105,7 @@ function App() {
           </div>
           <div className="col-md-3">
             <div className="card">
-              <img src="Images\Menu4.jpg" className="card-img-top" alt="Pesto Pizza" />
+              <img src="Images/Menu4.jpg" className="card-img-top" alt="Pesto Pizza" />
               <div className="card-body">
                 <h5 className="card-title">Pesto Pizza</h5>
                 <p className="card-text">$27.00</p>
